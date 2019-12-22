@@ -1,0 +1,11 @@
+Main()
+{
+function1()
+{
+//Initialcode
+}
+Function2()
+{
+//Developer A Code
+}
+}
