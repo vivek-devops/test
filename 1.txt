@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is new file with new branch.
+=======
+this is new text on banch2.
+>>>>>>> branch2
